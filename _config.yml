@@ -1,0 +1,28 @@
+name: AAssaly Photography
+favicon: null
+layout_spectrum: 0.7691539227962494
+typography_spectrum: 0.8851774025242776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.786146500846371
+  lightness: 0.25168895232491195
+  saturation: 0.13982921442948282
+  rhythmicContrast: 0.9331482208799571
+purpose: []
