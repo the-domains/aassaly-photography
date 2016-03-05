@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T16:22:37.089Z'
-dateModified: '2016-03-05T16:22:24.321Z'
+datePublished: '2016-03-05T16:30:07.230Z'
+dateModified: '2016-03-05T16:28:46.183Z'
 title: Is there a right way to make complicated applications usable?
 author: []
+sourcePath: _posts/2016-03-05-is-there-a-right-way-to-make-complicated-applications-usable.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-is-there-a-right-way-to-make-complicated-applications-usable.md
-published: true
 url: is-there-a-right-way-to-make-complicated-applications-usable/index.html
 _type: Article
 
