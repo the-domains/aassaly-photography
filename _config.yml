@@ -1,7 +1,7 @@
-name: AAssaly Photography
+name: AAssaly
 favicon: null
-layout_spectrum: 0.7691539227962494
-typography_spectrum: 0.8851774025242776
+layout_spectrum: 0.75362
+typography_spectrum: 0.91279
 title: AAssaly
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.786146500846371
-  lightness: 0.25168895232491195
-  saturation: 0.13982921442948282
-  rhythmicContrast: 0.9331482208799571
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
